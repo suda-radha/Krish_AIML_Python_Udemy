@@ -1,0 +1,92 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: solution.py
+    visible: true
+    learner_created: false
+  - name: task_my.py
+    visible: true
+    learner_created: true
+  - name: LeapYearLogic_Simplified.py
+    visible: true
+    learner_created: true
+  - name: SlicingNums.py
+    visible: true
+    learner_created: true
+  - name: ListComprehension.py
+    visible: true
+    learner_created: true
+  - name: ToDoList_krish.py
+    visible: true
+    learner_created: true
+  - name: PaswordStrengthChecker.py
+    visible: true
+    learner_created: true
+  - name: ShoppingCart_krish.py
+    visible: true
+    learner_created: true
+  - name: PalindromeCheck_krish.py
+    visible: true
+    learner_created: true
+  - name: FactorialUsingRecurssion_krish.py
+    visible: true
+    learner_created: true
+  - name: LambdaFunctions_krish.py
+    visible: true
+    learner_created: true
+  - name: MapFunction.py
+    visible: true
+    learner_created: true
+  - name: FilterFunction.py
+    visible: true
+    learner_created: true
+  - name: InbuiltImpLibs.py
+    visible: true
+    learner_created: true
+  - name: file.txt
+    visible: true
+    learner_created: true
+  - name: source.txt
+    visible: true
+    learner_created: true
+  - name: destination.txt
+    visible: true
+    learner_created: true
+  - name: example.csv
+    visible: true
+    learner_created: true
+  - name: FileFolderOps.py
+    visible: true
+    learner_created: true
+  - name: file2.txt
+    visible: true
+    learner_created: true
+  - name: ex.txt
+    visible: true
+    learner_created: true
+  - name: example1.txt
+    visible: true
+    learner_created: true
+  - name: ClassesAndObjects.py
+    visible: true
+    learner_created: true
+  - name: BankAccountClass.py
+    visible: true
+    learner_created: true
+  - name: Inheritance.py
+    visible: true
+    learner_created: true
+  - name: polymorphism.py
+    visible: true
+    learner_created: true
+  - name: Encapsulation.py
+    visible: true
+    learner_created: true
+  - name: Test.ipynb
+    visible: true
+    learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true
